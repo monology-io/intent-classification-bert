@@ -1,0 +1,351 @@
+query,intent
+Hello there,Greeting
+Hi how are you,Greeting
+Good morning,Greeting
+Good afternoon,Greeting
+Good evening,Greeting
+Hey there,Greeting
+Hello,Greeting
+Hi,Greeting
+Greetings,Greeting
+Good day,Greeting
+Howdy,Greeting
+Hey,Greeting
+What's up,Greeting
+How's it going,Greeting
+Nice to meet you,Greeting
+Pleased to meet you,Greeting
+Welcome,Greeting
+Good to see you,Greeting
+Hope you're doing well,Greeting
+How are things,Greeting
+How's your day,Greeting
+Good to hear from you,Greeting
+Long time no see,Greeting
+How have you been,Greeting
+Great to connect,Greeting
+Lovely to meet you,Greeting
+How's everything,Greeting
+Hope all is well,Greeting
+Good to be here,Greeting
+Thanks for connecting,Greeting
+Pleasure to meet you,Greeting
+How are you today,Greeting
+Hope you're well,Greeting
+Good to chat,Greeting
+Nice meeting you,Greeting
+How's life,Greeting
+What's happening,Greeting
+How goes it,Greeting
+Good vibes,Greeting
+Hope your day is great,Greeting
+Wonderful to meet you,Greeting
+How's work going,Greeting
+Hope things are good,Greeting
+Great to see you,Greeting
+How's the weather,Greeting
+Hope you're having a good day,Greeting
+Nice to connect,Greeting
+How's the family,Greeting
+Hope everything is going well,Greeting
+Good to talk,Greeting
+I need to submit my project requirements,Requirement Submission
+Can you help me with requirements submission,Requirement Submission
+I want to provide technical specifications,Requirement Submission
+Here are my system requirements,Requirement Submission
+I need to submit software requirements,Requirement Submission
+Can I submit my project specs,Requirement Submission
+I have requirements to share,Requirement Submission
+Need to provide technical details,Requirement Submission
+I want to submit my requirements document,Requirement Submission
+Can you help with requirement submission,Requirement Submission
+I need to provide project specifications,Requirement Submission
+Here are the technical requirements,Requirement Submission
+I want to submit system specifications,Requirement Submission
+Can I provide my requirements,Requirement Submission
+Need help with requirements submission,Requirement Submission
+I have technical specs to submit,Requirement Submission
+Want to provide system requirements,Requirement Submission
+I need to submit functional requirements,Requirement Submission
+Can you accept my requirements,Requirement Submission
+Here are my business requirements,Requirement Submission
+I want to share technical specifications,Requirement Submission
+Need to submit project requirements,Requirement Submission
+I have specifications to provide,Requirement Submission
+Can I submit technical requirements,Requirement Submission
+Want to provide project specs,Requirement Submission
+I need to share system requirements,Requirement Submission
+Can you help with spec submission,Requirement Submission
+I have requirements documentation,Requirement Submission
+Need to provide technical requirements,Requirement Submission
+I want to submit my specs,Requirement Submission
+Can I share my requirements,Requirement Submission
+Here are the project specifications,Requirement Submission
+I need to provide system specs,Requirement Submission
+Want to submit technical details,Requirement Submission
+I have project requirements ready,Requirement Submission
+Can you take my requirements,Requirement Submission
+Need to submit system specifications,Requirement Submission
+I want to provide requirements document,Requirement Submission
+Can I submit my technical specs,Requirement Submission
+Here are my functional requirements,Requirement Submission
+I need to share project specifications,Requirement Submission
+Want to provide technical requirements,Requirement Submission
+I have system requirements to submit,Requirement Submission
+Can you help with requirements,Requirement Submission
+Need to provide project requirements,Requirement Submission
+I want to submit specification document,Requirement Submission
+Can I share technical requirements,Requirement Submission
+Here are the system specifications,Requirement Submission
+I need to provide technical specs,Requirement Submission
+Want to submit my requirements,Requirement Submission
+What services do you offer,General Query
+Can you tell me about your platform,General Query
+I have some questions about your services,General Query
+How does your system work,General Query
+What can you help me with,General Query
+Tell me more about your company,General Query
+What do you specialize in,General Query
+Can you explain your services,General Query
+I'm interested in learning more,General Query
+What solutions do you provide,General Query
+How can you assist me,General Query
+What are your capabilities,General Query
+Can you describe your platform,General Query
+I need more information,General Query
+What kind of support do you offer,General Query
+How does this work,General Query
+Can you walk me through your process,General Query
+What are your main features,General Query
+I have questions about your service,General Query
+Can you help me understand,General Query
+What options are available,General Query
+How do I get started,General Query
+What's included in your service,General Query
+Can you provide more details,General Query
+I'm curious about your offerings,General Query
+What are the benefits,General Query
+How does your platform help,General Query
+Can you explain the process,General Query
+What makes you different,General Query
+I need general information,General Query
+Can you give me an overview,General Query
+What should I know,General Query
+How do things work here,General Query
+Can you clarify something,General Query
+I have a general question,General Query
+What are your key features,General Query
+How comprehensive is your service,General Query
+Can you provide guidance,General Query
+What's your approach,General Query
+I need some clarification,General Query
+Can you help me understand better,General Query
+What are the next steps,General Query
+How do I proceed,General Query
+Can you explain the workflow,General Query
+What documentation do you have,General Query
+How detailed is your service,General Query
+Can you provide examples,General Query
+What case studies do you have,General Query
+How proven is your solution,General Query
+Can you share success stories,General Query
+What's your contact information,Contact Details
+How can I reach your support team,Contact Details
+I need your phone number,Contact Details
+What's your email address,Contact Details
+Can you provide contact details,Contact Details
+How do I get in touch,Contact Details
+What's the best way to contact you,Contact Details
+I need to speak with someone,Contact Details
+Can I have your office address,Contact Details
+What are your business hours,Contact Details
+How can I reach customer service,Contact Details
+I need support contact information,Contact Details
+Can you give me your phone,Contact Details
+What's your support email,Contact Details
+How do I contact technical support,Contact Details
+I need to reach your team,Contact Details
+Can you provide a contact number,Contact Details
+What's your office location,Contact Details
+How can I call you,Contact Details
+I need contact details please,Contact Details
+Can you share your information,Contact Details
+What's your customer service number,Contact Details
+How do I reach someone,Contact Details
+I need to get in touch,Contact Details
+Can you provide your details,Contact Details
+What's your direct line,Contact Details
+How can I contact support,Contact Details
+I need your business contact,Contact Details
+Can you give me contact info,Contact Details
+What's your help desk number,Contact Details
+How do I reach your office,Contact Details
+I need technical support contact,Contact Details
+Can you provide phone support,Contact Details
+What's your main office number,Contact Details
+How can I speak to someone,Contact Details
+I need customer service contact,Contact Details
+Can you share contact details,Contact Details
+What's your support hotline,Contact Details
+How do I contact your team,Contact Details
+I need to reach customer care,Contact Details
+Can you provide support contact,Contact Details
+What's your service desk number,Contact Details
+How can I get help,Contact Details
+I need assistance contact info,Contact Details
+Can you give me support details,Contact Details
+What's your emergency contact,Contact Details
+How do I reach technical team,Contact Details
+I need your contact information please,Contact Details
+Can you provide all contact details,Contact Details
+What are all your contact options,Contact Details
+I want to share my feedback,Feedback Submission
+Here's my review of your service,Feedback Submission
+I'd like to provide some suggestions,Feedback Submission
+Can I submit feedback about my experience,Feedback Submission
+I have comments about your platform,Feedback Submission
+Here's what I think about your service,Feedback Submission
+I want to give you my opinion,Feedback Submission
+Can I share my thoughts,Feedback Submission
+I have feedback to provide,Feedback Submission
+Here are my suggestions for improvement,Feedback Submission
+I'd like to comment on your service,Feedback Submission
+Can I give you some feedback,Feedback Submission
+I want to review your platform,Feedback Submission
+Here's my evaluation,Feedback Submission
+I have some observations to share,Feedback Submission
+Can I provide my assessment,Feedback Submission
+I want to share my experience,Feedback Submission
+Here are my recommendations,Feedback Submission
+I'd like to give input,Feedback Submission
+Can I offer suggestions,Feedback Submission
+I have insights to share,Feedback Submission
+Here's my perspective,Feedback Submission
+I want to provide constructive feedback,Feedback Submission
+Can I share my review,Feedback Submission
+I have ideas for improvement,Feedback Submission
+Here's what could be better,Feedback Submission
+I'd like to suggest changes,Feedback Submission
+Can I provide my thoughts,Feedback Submission
+I want to give you feedback,Feedback Submission
+Here are areas for improvement,Feedback Submission
+I have suggestions to make,Feedback Submission
+Can I share my opinion,Feedback Submission
+I want to comment on the service,Feedback Submission
+Here's my user feedback,Feedback Submission
+I'd like to provide input,Feedback Submission
+Can I give my evaluation,Feedback Submission
+I have feedback about the experience,Feedback Submission
+Here's my service review,Feedback Submission
+I want to share observations,Feedback Submission
+Can I provide recommendations,Feedback Submission
+I have comments and suggestions,Feedback Submission
+Here's what I noticed,Feedback Submission
+I'd like to give you my review,Feedback Submission
+Can I share improvement ideas,Feedback Submission
+I want to provide honest feedback,Feedback Submission
+Here are my detailed comments,Feedback Submission
+I have constructive suggestions,Feedback Submission
+Can I give you my assessment,Feedback Submission
+I want to share my analysis,Feedback Submission
+Here's my comprehensive feedback,Feedback Submission
+Thank you for the excellent service,Appreciation
+Great job on the quick response,Appreciation
+I really appreciate your help,Appreciation
+Thanks for going above and beyond,Appreciation
+Wonderful support,Appreciation
+Outstanding service,Appreciation
+You've been very helpful,Appreciation
+Much appreciated,Appreciation
+Thanks so much,Appreciation
+Excellent work,Appreciation
+You're amazing,Appreciation
+Great customer service,Appreciation
+Thank you for your patience,Appreciation
+Really impressed with your service,Appreciation
+Fantastic support,Appreciation
+You've exceeded expectations,Appreciation
+Thank you for the quick resolution,Appreciation
+Brilliant service,Appreciation
+Much obliged,Appreciation
+You're the best,Appreciation
+Thank you for your assistance,Appreciation
+Grateful for your help,Appreciation
+You've been wonderful,Appreciation
+Thanks a million,Appreciation
+Exceptional service,Appreciation
+You're incredibly helpful,Appreciation
+Thank you for your time,Appreciation
+Really appreciate the support,Appreciation
+You've made my day,Appreciation
+Thanks for being so responsive,Appreciation
+You're a star,Appreciation
+Thank you for the great experience,Appreciation
+Really grateful,Appreciation
+You've been fantastic,Appreciation
+Thanks for the professional service,Appreciation
+You're very kind,Appreciation
+Thank you for the detailed help,Appreciation
+Much respect,Appreciation
+You've been brilliant,Appreciation
+Thanks for the outstanding support,Appreciation
+You're wonderful to work with,Appreciation
+Thank you for your dedication,Appreciation
+Really thankful,Appreciation
+You've been incredible,Appreciation
+Thanks for the seamless experience,Appreciation
+You're absolutely amazing,Appreciation
+Thank you for your expertise,Appreciation
+You've been so accommodating,Appreciation
+Thanks for the personalized service,Appreciation
+You're truly exceptional,Appreciation
+I would like to apply for the software engineer position,Job Application Submission
+Can I submit my resume for the developer role,Job Application Submission
+I'm interested in the data scientist job posting,Job Application Submission
+How can I apply for the IT support position,Job Application Submission
+I want to apply for the open position,Job Application Submission
+Can I submit my application,Job Application Submission
+I'm interested in joining your team,Job Application Submission
+How do I apply for jobs,Job Application Submission
+I want to send my resume,Job Application Submission
+Can I apply for the marketing role,Job Application Submission
+I'm interested in career opportunities,Job Application Submission
+How can I submit my CV,Job Application Submission
+I want to apply for the analyst position,Job Application Submission
+Can I send my application materials,Job Application Submission
+I'm looking for job opportunities,Job Application Submission
+How do I submit my resume,Job Application Submission
+I want to apply for the manager role,Job Application Submission
+Can I join your hiring process,Job Application Submission
+I'm interested in the consultant position,Job Application Submission
+How can I apply for employment,Job Application Submission
+I want to submit my job application,Job Application Submission
+Can I apply for the designer role,Job Application Submission
+I'm interested in working here,Job Application Submission
+How do I send my credentials,Job Application Submission
+I want to apply for the coordinator position,Job Application Submission
+Can I submit my portfolio,Job Application Submission
+I'm interested in the project manager job,Job Application Submission
+How can I apply for the opening,Job Application Submission
+I want to send my qualifications,Job Application Submission
+Can I apply for the specialist role,Job Application Submission
+I'm interested in the remote position,Job Application Submission
+How do I submit employment application,Job Application Submission
+I want to apply for the lead position,Job Application Submission
+Can I send my cover letter,Job Application Submission
+I'm interested in the senior role,Job Application Submission
+How can I apply for the vacancy,Job Application Submission
+I want to submit my credentials,Job Application Submission
+Can I apply for the entry level job,Job Application Submission
+I'm interested in the full-time position,Job Application Submission
+How do I apply for the internship,Job Application Submission
+I want to send my work samples,Job Application Submission
+Can I apply for the part-time role,Job Application Submission
+I'm interested in the contract position,Job Application Submission
+How can I submit my information,Job Application Submission
+I want to apply for the administrative role,Job Application Submission
+Can I send my references,Job Application Submission
+I'm interested in the technical position,Job Application Submission
+How do I apply for the executive role,Job Application Submission
+I want to submit my background,Job Application Submission
+Can I apply for multiple positions,Job Application Submission
