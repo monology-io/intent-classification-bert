@@ -1,0 +1,32 @@
+# Training Configuration for Intent Classification
+
+# Model Configuration
+model_name: "bert-base-uncased"  # Hugging Face model identifier
+num_labels: 7  # Updated to 7 intents
+
+# Training Hyperparameters
+learning_rate: 2e-5
+per_device_train_batch_size: 8
+per_device_eval_batch_size: 8
+num_train_epochs: 3
+weight_decay: 0.01
+warmup_steps: 100
+
+# Data Configuration
+max_length: 128  # Maximum sequence length for tokenization
+test_size: 0.2   # Proportion of data used for testing
+random_seed: 42  # For reproducible results
+
+# Training Strategy (Updated parameter names for newer transformers)
+eval_strategy: "epoch"  # Updated from evaluation_strategy
+save_strategy: "epoch"
+logging_steps: 10
+load_best_model_at_end: true
+metric_for_best_model: "eval_loss"  # Can also use "accuracy" if compute_metrics is defined
+greater_is_better: false  # Set to true if using accuracy
+
+# Advanced Options
+gradient_accumulation_steps: 1
+fp16: false  # Set to true for mixed precision training (requires compatible GPU)
+dataloader_num_workers: 0  # Number of subprocesses for data loading
+save_total_limit: 2  # Only save the best 2 models

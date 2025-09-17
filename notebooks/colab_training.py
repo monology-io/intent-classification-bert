@@ -1,5 +1,5 @@
 """
-🤖 BERT Intent Classification Training for Google Colab - Final Version
+🤖 BERT Intent Classification Training for Google Colab
 ====================================================================
 
 Instructions:
