@@ -175,13 +175,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google for BERT architecture
 - The open-source ML community
 
-## 📞 Support
+## 📞 Support & Resources
 
 If you have questions or need help:
 
 - Open an issue on GitHub
 - Email: contact@monology.io
 - LinkedIn: [Monology](https://www.linkedin.com/company/monology-io)
+
+## 🌐 About This Project
+
+This intent classification system was developed as part of the **Monology** platform - an AI chatbot builder that uses multi-agent workflows. If you're looking for a production-ready solution with visual workflow builders, pre-trained models, and enterprise features, check out [Monology's IT Services Hub](https://monology.io/it-services-hub).
+
+For more information about Monology: [monology.io](https://monology.io)
+
+## 🔗 Related Resources
+
+- [Monology Platform](https://monology.io) - Build AI chatbots with visual workflows
+- [IT Services Hub](https://monology.io/it-services-hub) - Pre-configured IT services workflow
 
 ---
 
